@@ -16,8 +16,9 @@ Check project requirements from here : **[CLICK HERE](https://github.com/Tapaswi
 For setting up and running this project in your system please checkout this brief **[Documentation](https://github.com/kishanrajput23/Training-Schedule-Management/blob/main/Project_Flies/docs/designing_part.pdf)** for your reference and hands-on explanation.
 
 ##Design part
+
 The prototype of the project
-(https://github.com/kishanrajput23/Training-Schedule-Management/blob/main/Project_Flies/docs/designing_part.pdf)
+(https://github.com/TapaswiniHaldar/Training-Schedule-Management/blob/main/Project_Flies/docs/designing_part.pdf)
 
 ## Author
 
